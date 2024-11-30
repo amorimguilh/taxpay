@@ -1,0 +1,99 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sources", "sources", "{0FA5EB12-3B8D-436F-9BB7-957DFD6D4416}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "main", "main", "{3B688F99-D19B-4C95-9AAA-F9EEB6706303}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "taxpay.payment.api", "sources\main\taxpay.payment.api\taxpay.payment.api.csproj", "{13B70DE5-79DE-451E-BBA4-2AA74AE64AC3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "taxpay.payment.domain", "sources\main\taxpay.payment.domain\taxpay.payment.domain.csproj", "{D77E91CA-D6C1-4785-BB1F-6832B5C3385C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "taxpay.payment.services", "sources\main\taxpay.payment.services\taxpay.payment.services.csproj", "{78DFA149-0525-49DA-8496-ED102CFBE161}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "taxpay.payment.services.interfaces", "sources\main\taxpay.payment.services.interfaces\taxpay.payment.services.interfaces.csproj", "{F4C1DD7C-0DFD-4DE6-807A-E12BB6442B60}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "taxpay.payment.store", "sources\main\taxpay.payment.store\taxpay.payment.store.csproj", "{58749408-9508-44C8-9093-78CCD2A304BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "taxpay.payment.store.interfaces", "sources\main\taxpay.payment.store.interfaces\taxpay.payment.store.interfaces.csproj", "{303B8D9E-4FC0-4613-8D3A-9234083E0BDC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{4721354D-CEDE-496D-A40C-55C4A6044759}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taxpay.payment.store.tests", "tests\taxpay.payment.store.tests\taxpay.payment.store.tests.csproj", "{3CC69085-EE0E-4DB1-8DC1-D723B9B841AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taxpay.payment.services.tests", "sources\tests\taxpay.payment.services.tests\taxpay.payment.services.tests.csproj", "{730B45CD-0497-41B8-923B-76FB758D1CEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taxpay.payment.api.tests", "sources\tests\taxpay.payment.api.tests\taxpay.payment.api.tests.csproj", "{4291780A-1228-4338-869C-7328B54952DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taxpay.payment.store.models", "sources\main\taxpay.payment.store.models\taxpay.payment.store.models.csproj", "{F58514AF-5258-4AAB-BECD-F56F13446764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13B70DE5-79DE-451E-BBA4-2AA74AE64AC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B70DE5-79DE-451E-BBA4-2AA74AE64AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B70DE5-79DE-451E-BBA4-2AA74AE64AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B70DE5-79DE-451E-BBA4-2AA74AE64AC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D77E91CA-D6C1-4785-BB1F-6832B5C3385C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D77E91CA-D6C1-4785-BB1F-6832B5C3385C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D77E91CA-D6C1-4785-BB1F-6832B5C3385C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D77E91CA-D6C1-4785-BB1F-6832B5C3385C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78DFA149-0525-49DA-8496-ED102CFBE161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78DFA149-0525-49DA-8496-ED102CFBE161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78DFA149-0525-49DA-8496-ED102CFBE161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78DFA149-0525-49DA-8496-ED102CFBE161}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4C1DD7C-0DFD-4DE6-807A-E12BB6442B60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4C1DD7C-0DFD-4DE6-807A-E12BB6442B60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4C1DD7C-0DFD-4DE6-807A-E12BB6442B60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4C1DD7C-0DFD-4DE6-807A-E12BB6442B60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58749408-9508-44C8-9093-78CCD2A304BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58749408-9508-44C8-9093-78CCD2A304BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58749408-9508-44C8-9093-78CCD2A304BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58749408-9508-44C8-9093-78CCD2A304BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{303B8D9E-4FC0-4613-8D3A-9234083E0BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{303B8D9E-4FC0-4613-8D3A-9234083E0BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{303B8D9E-4FC0-4613-8D3A-9234083E0BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{303B8D9E-4FC0-4613-8D3A-9234083E0BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CC69085-EE0E-4DB1-8DC1-D723B9B841AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC69085-EE0E-4DB1-8DC1-D723B9B841AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC69085-EE0E-4DB1-8DC1-D723B9B841AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC69085-EE0E-4DB1-8DC1-D723B9B841AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{730B45CD-0497-41B8-923B-76FB758D1CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730B45CD-0497-41B8-923B-76FB758D1CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730B45CD-0497-41B8-923B-76FB758D1CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730B45CD-0497-41B8-923B-76FB758D1CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4291780A-1228-4338-869C-7328B54952DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4291780A-1228-4338-869C-7328B54952DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4291780A-1228-4338-869C-7328B54952DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4291780A-1228-4338-869C-7328B54952DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F58514AF-5258-4AAB-BECD-F56F13446764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F58514AF-5258-4AAB-BECD-F56F13446764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F58514AF-5258-4AAB-BECD-F56F13446764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F58514AF-5258-4AAB-BECD-F56F13446764}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4721354D-CEDE-496D-A40C-55C4A6044759} = {0FA5EB12-3B8D-436F-9BB7-957DFD6D4416}
+		{3B688F99-D19B-4C95-9AAA-F9EEB6706303} = {0FA5EB12-3B8D-436F-9BB7-957DFD6D4416}
+		{13B70DE5-79DE-451E-BBA4-2AA74AE64AC3} = {3B688F99-D19B-4C95-9AAA-F9EEB6706303}
+		{D77E91CA-D6C1-4785-BB1F-6832B5C3385C} = {3B688F99-D19B-4C95-9AAA-F9EEB6706303}
+		{78DFA149-0525-49DA-8496-ED102CFBE161} = {3B688F99-D19B-4C95-9AAA-F9EEB6706303}
+		{F4C1DD7C-0DFD-4DE6-807A-E12BB6442B60} = {3B688F99-D19B-4C95-9AAA-F9EEB6706303}
+		{58749408-9508-44C8-9093-78CCD2A304BA} = {3B688F99-D19B-4C95-9AAA-F9EEB6706303}
+		{303B8D9E-4FC0-4613-8D3A-9234083E0BDC} = {3B688F99-D19B-4C95-9AAA-F9EEB6706303}
+		{3CC69085-EE0E-4DB1-8DC1-D723B9B841AE} = {4721354D-CEDE-496D-A40C-55C4A6044759}
+		{730B45CD-0497-41B8-923B-76FB758D1CEF} = {4721354D-CEDE-496D-A40C-55C4A6044759}
+		{4291780A-1228-4338-869C-7328B54952DF} = {4721354D-CEDE-496D-A40C-55C4A6044759}
+		{F58514AF-5258-4AAB-BECD-F56F13446764} = {3B688F99-D19B-4C95-9AAA-F9EEB6706303}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D32FBE6E-2557-4D2E-AA74-9064608A3912}
+	EndGlobalSection
+EndGlobal

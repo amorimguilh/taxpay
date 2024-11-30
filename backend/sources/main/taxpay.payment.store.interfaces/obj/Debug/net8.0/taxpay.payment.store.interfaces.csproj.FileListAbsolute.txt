@@ -1,0 +1,16 @@
+d:\Projects\taxpay\backend\sources\main\taxpay.payment.store.interfaces\bin\Debug\net8.0\taxpay.payment.store.interfaces.deps.json
+d:\Projects\taxpay\backend\sources\main\taxpay.payment.store.interfaces\bin\Debug\net8.0\taxpay.payment.store.interfaces.dll
+d:\Projects\taxpay\backend\sources\main\taxpay.payment.store.interfaces\bin\Debug\net8.0\taxpay.payment.store.interfaces.pdb
+d:\Projects\taxpay\backend\sources\main\taxpay.payment.store.interfaces\bin\Debug\net8.0\taxpay.payment.store.models.dll
+d:\Projects\taxpay\backend\sources\main\taxpay.payment.store.interfaces\bin\Debug\net8.0\taxpay.payment.store.models.pdb
+d:\Projects\taxpay\backend\sources\main\taxpay.payment.store.interfaces\obj\Debug\net8.0\taxpay.payment.store.interfaces.csproj.AssemblyReference.cache
+d:\Projects\taxpay\backend\sources\main\taxpay.payment.store.interfaces\obj\Debug\net8.0\taxpay.payment.store.interfaces.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projects\taxpay\backend\sources\main\taxpay.payment.store.interfaces\obj\Debug\net8.0\taxpay.payment.store.interfaces.AssemblyInfoInputs.cache
+d:\Projects\taxpay\backend\sources\main\taxpay.payment.store.interfaces\obj\Debug\net8.0\taxpay.payment.store.interfaces.AssemblyInfo.cs
+d:\Projects\taxpay\backend\sources\main\taxpay.payment.store.interfaces\obj\Debug\net8.0\taxpay.payment.store.interfaces.csproj.CoreCompileInputs.cache
+d:\Projects\taxpay\backend\sources\main\taxpay.payment.store.interfaces\obj\Debug\net8.0\taxpay.payment.store.interfaces.sourcelink.json
+d:\Projects\taxpay\backend\sources\main\taxpay.payment.store.interfaces\obj\Debug\net8.0\taxpay.p.1A26FA1E.Up2Date
+d:\Projects\taxpay\backend\sources\main\taxpay.payment.store.interfaces\obj\Debug\net8.0\taxpay.payment.store.interfaces.dll
+d:\Projects\taxpay\backend\sources\main\taxpay.payment.store.interfaces\obj\Debug\net8.0\refint\taxpay.payment.store.interfaces.dll
+d:\Projects\taxpay\backend\sources\main\taxpay.payment.store.interfaces\obj\Debug\net8.0\taxpay.payment.store.interfaces.pdb
+d:\Projects\taxpay\backend\sources\main\taxpay.payment.store.interfaces\obj\Debug\net8.0\ref\taxpay.payment.store.interfaces.dll

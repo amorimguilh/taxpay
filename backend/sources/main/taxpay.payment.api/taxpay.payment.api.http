@@ -1,0 +1,6 @@
+@taxpay.payment.api_HostAddress = http://localhost:5094
+
+GET {{taxpay.payment.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

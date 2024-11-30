@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\taxpay.payment.api.props" />
+</Project>

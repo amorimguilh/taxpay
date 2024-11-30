@@ -1,0 +1,12 @@
+d:\Projects\taxpay\backend\sources\main\taxpay.payment.services\bin\Debug\net8.0\taxpay.payment.services.deps.json
+d:\Projects\taxpay\backend\sources\main\taxpay.payment.services\bin\Debug\net8.0\taxpay.payment.services.dll
+d:\Projects\taxpay\backend\sources\main\taxpay.payment.services\bin\Debug\net8.0\taxpay.payment.services.pdb
+d:\Projects\taxpay\backend\sources\main\taxpay.payment.services\obj\Debug\net8.0\taxpay.payment.services.GeneratedMSBuildEditorConfig.editorconfig
+d:\Projects\taxpay\backend\sources\main\taxpay.payment.services\obj\Debug\net8.0\taxpay.payment.services.AssemblyInfoInputs.cache
+d:\Projects\taxpay\backend\sources\main\taxpay.payment.services\obj\Debug\net8.0\taxpay.payment.services.AssemblyInfo.cs
+d:\Projects\taxpay\backend\sources\main\taxpay.payment.services\obj\Debug\net8.0\taxpay.payment.services.csproj.CoreCompileInputs.cache
+d:\Projects\taxpay\backend\sources\main\taxpay.payment.services\obj\Debug\net8.0\taxpay.payment.services.sourcelink.json
+d:\Projects\taxpay\backend\sources\main\taxpay.payment.services\obj\Debug\net8.0\taxpay.payment.services.dll
+d:\Projects\taxpay\backend\sources\main\taxpay.payment.services\obj\Debug\net8.0\refint\taxpay.payment.services.dll
+d:\Projects\taxpay\backend\sources\main\taxpay.payment.services\obj\Debug\net8.0\taxpay.payment.services.pdb
+d:\Projects\taxpay\backend\sources\main\taxpay.payment.services\obj\Debug\net8.0\ref\taxpay.payment.services.dll
