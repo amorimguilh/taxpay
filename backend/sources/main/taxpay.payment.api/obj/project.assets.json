@@ -2913,11 +2913,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\Projects\\taxpay\\backend\\sources\\main\\taxpay.payment.api\\taxpay.payment.api.csproj",
+      "projectUniqueName": "D:\\Projects\\taxpay\\backend\\sources\\main\\taxpay.payment.api\\taxpay.payment.api.csproj",
       "projectName": "taxpay.payment.api",
-      "projectPath": "d:\\Projects\\taxpay\\backend\\sources\\main\\taxpay.payment.api\\taxpay.payment.api.csproj",
+      "projectPath": "D:\\Projects\\taxpay\\backend\\sources\\main\\taxpay.payment.api\\taxpay.payment.api.csproj",
       "packagesPath": "C:\\Users\\amori\\.nuget\\packages\\",
-      "outputPath": "d:\\Projects\\taxpay\\backend\\sources\\main\\taxpay.payment.api\\obj\\",
+      "outputPath": "D:\\Projects\\taxpay\\backend\\sources\\main\\taxpay.payment.api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2937,8 +2937,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "d:\\Projects\\taxpay\\backend\\sources\\main\\taxpay.payment.store\\taxpay.payment.store.csproj": {
-              "projectPath": "d:\\Projects\\taxpay\\backend\\sources\\main\\taxpay.payment.store\\taxpay.payment.store.csproj"
+            "D:\\Projects\\taxpay\\backend\\sources\\main\\taxpay.payment.store\\taxpay.payment.store.csproj": {
+              "projectPath": "D:\\Projects\\taxpay\\backend\\sources\\main\\taxpay.payment.store\\taxpay.payment.store.csproj"
             }
           }
         }

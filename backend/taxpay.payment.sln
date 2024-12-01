@@ -21,7 +21,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "taxpay.payment.store.interf
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{4721354D-CEDE-496D-A40C-55C4A6044759}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taxpay.payment.store.tests", "tests\taxpay.payment.store.tests\taxpay.payment.store.tests.csproj", "{3CC69085-EE0E-4DB1-8DC1-D723B9B841AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taxpay.payment.store.tests", "sources\tests\taxpay.payment.store.tests\taxpay.payment.store.tests.csproj", "{3CC69085-EE0E-4DB1-8DC1-D723B9B841AE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taxpay.payment.services.tests", "sources\tests\taxpay.payment.services.tests\taxpay.payment.services.tests.csproj", "{730B45CD-0497-41B8-923B-76FB758D1CEF}"
 EndProject

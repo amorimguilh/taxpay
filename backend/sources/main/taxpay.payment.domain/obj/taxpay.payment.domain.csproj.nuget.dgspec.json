@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Projects\\taxpay\\backend\\sources\\main\\taxpay.payment.domain\\taxpay.payment.domain.csproj": {}
+    "D:\\Projects\\taxpay\\backend\\sources\\main\\taxpay.payment.domain\\taxpay.payment.domain.csproj": {}
   },
   "projects": {
-    "d:\\Projects\\taxpay\\backend\\sources\\main\\taxpay.payment.domain\\taxpay.payment.domain.csproj": {
+    "D:\\Projects\\taxpay\\backend\\sources\\main\\taxpay.payment.domain\\taxpay.payment.domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Projects\\taxpay\\backend\\sources\\main\\taxpay.payment.domain\\taxpay.payment.domain.csproj",
+        "projectUniqueName": "D:\\Projects\\taxpay\\backend\\sources\\main\\taxpay.payment.domain\\taxpay.payment.domain.csproj",
         "projectName": "taxpay.payment.domain",
-        "projectPath": "d:\\Projects\\taxpay\\backend\\sources\\main\\taxpay.payment.domain\\taxpay.payment.domain.csproj",
+        "projectPath": "D:\\Projects\\taxpay\\backend\\sources\\main\\taxpay.payment.domain\\taxpay.payment.domain.csproj",
         "packagesPath": "C:\\Users\\amori\\.nuget\\packages\\",
-        "outputPath": "d:\\Projects\\taxpay\\backend\\sources\\main\\taxpay.payment.domain\\obj\\",
+        "outputPath": "D:\\Projects\\taxpay\\backend\\sources\\main\\taxpay.payment.domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

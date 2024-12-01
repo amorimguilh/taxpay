@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Projects\\taxpay\\backend\\sources\\main\\taxpay.payment.services.interfaces\\taxpay.payment.services.interfaces.csproj": {}
+    "D:\\Projects\\taxpay\\backend\\sources\\main\\taxpay.payment.services.interfaces\\taxpay.payment.services.interfaces.csproj": {}
   },
   "projects": {
-    "d:\\Projects\\taxpay\\backend\\sources\\main\\taxpay.payment.services.interfaces\\taxpay.payment.services.interfaces.csproj": {
+    "D:\\Projects\\taxpay\\backend\\sources\\main\\taxpay.payment.services.interfaces\\taxpay.payment.services.interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Projects\\taxpay\\backend\\sources\\main\\taxpay.payment.services.interfaces\\taxpay.payment.services.interfaces.csproj",
+        "projectUniqueName": "D:\\Projects\\taxpay\\backend\\sources\\main\\taxpay.payment.services.interfaces\\taxpay.payment.services.interfaces.csproj",
         "projectName": "taxpay.payment.services.interfaces",
-        "projectPath": "d:\\Projects\\taxpay\\backend\\sources\\main\\taxpay.payment.services.interfaces\\taxpay.payment.services.interfaces.csproj",
+        "projectPath": "D:\\Projects\\taxpay\\backend\\sources\\main\\taxpay.payment.services.interfaces\\taxpay.payment.services.interfaces.csproj",
         "packagesPath": "C:\\Users\\amori\\.nuget\\packages\\",
-        "outputPath": "d:\\Projects\\taxpay\\backend\\sources\\main\\taxpay.payment.services.interfaces\\obj\\",
+        "outputPath": "D:\\Projects\\taxpay\\backend\\sources\\main\\taxpay.payment.services.interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
