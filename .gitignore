@@ -1,0 +1,18 @@
+# Ignore everything by default
+*
+
+# Allow .gitignore itself
+!.gitignore
+
+# Allow solution file
+!*.sln
+
+# Allow source files in "sources" folder
+!backend/**
+!frontend/**
+
+# Optional: Ignore temporary and build files
+backend/**/bin/
+backend/**/obj/
+frontend/**/bin/
+frontend/**/obj/

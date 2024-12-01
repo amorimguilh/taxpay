@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\taxpay\\backend\\sources\\tests\\taxpay.payment.services.tests\\taxpay.payment.services.tests.csproj": {}
+    "d:\\Projects\\taxpay\\backend\\sources\\tests\\taxpay.payment.services.tests\\taxpay.payment.services.tests.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\taxpay\\backend\\sources\\tests\\taxpay.payment.services.tests\\taxpay.payment.services.tests.csproj": {
+    "d:\\Projects\\taxpay\\backend\\sources\\tests\\taxpay.payment.services.tests\\taxpay.payment.services.tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\taxpay\\backend\\sources\\tests\\taxpay.payment.services.tests\\taxpay.payment.services.tests.csproj",
+        "projectUniqueName": "d:\\Projects\\taxpay\\backend\\sources\\tests\\taxpay.payment.services.tests\\taxpay.payment.services.tests.csproj",
         "projectName": "taxpay.payment.services.tests",
-        "projectPath": "D:\\Projects\\taxpay\\backend\\sources\\tests\\taxpay.payment.services.tests\\taxpay.payment.services.tests.csproj",
+        "projectPath": "d:\\Projects\\taxpay\\backend\\sources\\tests\\taxpay.payment.services.tests\\taxpay.payment.services.tests.csproj",
         "packagesPath": "C:\\Users\\amori\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\taxpay\\backend\\sources\\tests\\taxpay.payment.services.tests\\obj\\",
+        "outputPath": "d:\\Projects\\taxpay\\backend\\sources\\tests\\taxpay.payment.services.tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
